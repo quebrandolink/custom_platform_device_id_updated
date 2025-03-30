@@ -200,13 +200,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "custom_platform_device_id",
+      "name": "custom_platform_device_id_updated",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2025-03-30T08:43:18.524630Z",
+  "generated": "2025-03-30T08:48:51.472685Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/flutter",
