@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/custom_platform_device_id.iml" filepath="$PROJECT_DIR$/.idea/custom_platform_device_id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom_platform_device_id_updated.iml" filepath="$PROJECT_DIR$/custom_platform_device_id_updated.iml" />
     </modules>
   </component>
 </project>
